@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rayrenxiang.github.io</id>
+    <title>江东树洞</title>
+    <updated>2024-04-27T10:58:38.306Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rayrenxiang.github.io"/>
+    <link rel="self" href="https://rayrenxiang.github.io/atom.xml"/>
+    <subtitle>江东树洞</subtitle>
+    <logo>https://rayrenxiang.github.io/images/avatar.png</logo>
+    <icon>https://rayrenxiang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 江东树洞</rights>
+    <entry>
+        <title type="html"><![CDATA[👏  欢迎使用 江东树洞 ！  ]]></title>
+        <id>https://rayrenxiang.github.io/post/hello-gridea/</id>
+        <link href="https://rayrenxiang.github.io/post/hello-gridea/">
+        </link>
+        <updated>2024-04-27T10:51:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>江东树洞</strong> ！<br>
+✍️  <strong>江东树洞</strong> 一个由Ray打造的静态博客。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>江东树洞</strong> ！<br>
+✍️  <strong>江东树洞</strong> 一个由Ray打造的静态博客。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用</p>
+<p>🌱 当然 <strong>江东树洞</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+<p>Ray</p>
+]]></content>
+    </entry>
+</feed>
